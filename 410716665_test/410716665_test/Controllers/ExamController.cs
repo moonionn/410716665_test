@@ -13,5 +13,11 @@ namespace _410716665_test.Controllers
         {
             return View();
         }
+
+        public ActionResult About()
+        {
+            
+            return View();
+        }
     }
 }
